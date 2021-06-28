@@ -2,7 +2,7 @@
 title:               Vamsi
 tagline:             'Music | Coffee | Code | Swim | Sleep'
 description:         'I am a senior software developer working on backend development'
-url:                 http://127.0.0.1:4000
+url:                 https://www.vkolluri.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
