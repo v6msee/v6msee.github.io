@@ -5,7 +5,8 @@ title: Hello World!
 
 ### Stay Tuned !
 
-Hi, There I will publishing the content soon
+
+Hi, There. I will publishing the content soon
 
 * I will write about python/flask and docker, some machine learning stuff.
 * 100 days of leetcode.
