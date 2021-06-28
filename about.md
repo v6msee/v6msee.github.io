@@ -10,3 +10,4 @@ title: About
   This is my personal blog where I write posts about technology,
   arts, politics and many more.
 </p>
+
